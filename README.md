@@ -8,6 +8,7 @@ this folder is for backend actions with Expessjs.
 # Restauarnt-App for Frontend
 this is Angular base App 
 - npm install for starter
+- ng serve -o to start angular file
 - services file for http requests
 
 
