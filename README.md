@@ -1,14 +1,14 @@
 # Backend folder
 this folder is for backend actions with Expessjs.
--  npm install to install npm package
--  node server.js to run backend server
+-  *npm install* to install npm package
+-  *node server.js* to run backend server
 -  Json data file source is for restaurant list /app/data/restaurant.json
 -  Json data file source is for menu list /app/data/single.json
   
 # Restauarnt-App for Frontend
 this is Angular base App 
-- npm install for starter
-- ng serve -o to start angular file
+- *npm install* for starter
+- *ng serve -o* to start angular file
 - services file for http requests
 
 
