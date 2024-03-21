@@ -12,6 +12,6 @@ this is Angular base App
 - services file for http requests
 
 
-For backend proper functionality to save the Order and to show the Previous order.
+For backend proper functionality to save the Order and to show the Previous order. This is time consuming functionality and sometime need more time to setup and error handling.
 
 *Hope this app will find you good.*
