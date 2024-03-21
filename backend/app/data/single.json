@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Starters",
+    "items": [
+      {
+        "name": "Caprese Salad",
+        "price": "$10.99"
+      },
+      {
+        "name": "Escargot",
+        "price": "$12.99"
+      }
+    ]
+  },
+  {
+    "name":"Main Courses",
+    "items": [
+      {
+        "name": "Filet Mignon",
+        "price": "$34.99"
+      },
+      {
+        "name": "Grilled Sea Bass",
+        "price": "$28.99"
+      }
+    ]
+  },
+  {
+    "name": "Desserts",
+    "items": [
+      {
+        "name": "Crème Brûlée",
+        "price": "$9.99"
+      },
+      {
+        "name": "Tiramisu",
+        "price": "$8.99"
+      }
+    ]
+  }
+]

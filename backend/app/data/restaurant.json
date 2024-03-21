@@ -1,0 +1,95 @@
+{
+    "restaurants": [
+      {
+        "id": "231241",
+        "name": "Guten Appetit",
+        "address": "Marktstraße 5, 65183 Wiesbaden",
+        "phone": "+49 611 123456",
+        "cuisine": "German",
+        "tags": ["German Gourmet", "Pasta", "Steak"],
+        "rating": 4.3
+      },
+      {
+        "id": "636272",
+        "name": "Bella Italia",
+        "address": "Rheinstraße 30, 65185 Wiesbaden",
+        "phone": "+49 611 987654",
+        "cuisine": "Italian",
+        "tags": ["Italien Gourmet", "Pizza"],
+        "rating": 4.5
+      },
+      {
+        "id": "236232",
+        "name": "Le Petit Bistro",
+        "address": "Langgasse 7, 65183 Wiesbaden",
+        "phone": "+49 611 234567",
+        "cuisine": "French",
+        "tags": ["Pizza", "Pasta", "Steak"],
+        "rating": 4.2
+      },
+      {
+        "id": "364221",
+        "name": "Tokyo Sushi House",
+        "address": "Wilhelmstraße 11, 65183 Wiesbaden",
+        "phone": "+49 611 345678",
+        "cuisine": "Japanese",
+        "tags": ["Sushi", "Noodles", "Dumpling"],
+        "rating": 4.6
+      },
+      {
+        "id": "234256",
+        "name": "Mediterraneo",
+        "address": "Kaiser-Friedrich-Ring 75, 65185 Wiesbaden",
+        "phone": "+49 611 876543",
+        "cuisine": "Mediterranean",
+        "tags": ["Authentice Food", "Hamburger", "Steak"],
+        "rating": 4.4
+      },
+      {
+        "id": "232722",
+        "name": "Spice Garden",
+        "address": "Taunusstraße 1, 65183 Wiesbaden",
+        "phone": "+49 611 654321",
+        "cuisine": "Indian",
+        "tags": ["Authentic Indian Food", "Handi", "Tandoori"],
+        "rating": 4.7
+      },
+      {
+        "id": "242523",
+        "name": "Café am Schlossplatz",
+        "address": "Schlossplatz 4, 65183 Wiesbaden",
+        "phone": "+49 611 135790",
+        "cuisine": "Café, European",
+        "tags": ["Coffee", "Pasta", "Breakfast"],
+        "rating": 4.1
+      },
+      {
+        "id": "235262",
+        "name": "El Ranchero",
+        "address": "Rheinstraße 55, 65185 Wiesbaden",
+        "phone": "+49 611 246801",
+        "cuisine": "Mexican",
+        "tags": ["Mexican Food", "Steak"],
+        "rating": 4.3
+      },
+      {
+        "id": "987872",
+        "name": "Szechuan Palace",
+        "address": "Schiersteiner Straße 22, 65187 Wiesbaden",
+        "phone": "+49 611 369258",
+        "cuisine": "Chinese",
+        "tags": ["Chinese Gourmet", "Noodles"],
+        "rating": 4.6
+      },
+      {
+        "id": "374622",
+        "name": "Greek Taverna",
+        "address": "Danziger Straße 40, 65187 Wiesbaden",
+        "phone": "+49 611 987654",
+        "cuisine": "Greek",
+        "tags": ["Greek Gourmet"],
+        "rating": 4.4
+      }
+    ]
+  }
+  

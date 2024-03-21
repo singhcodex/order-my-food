@@ -1,0 +1,1068 @@
+{
+    "restaurants": [
+        {
+            "id": "00035Q11",
+            "primarySlug": "die-waffel-michelsberg",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 690,
+            "popularity": 23,
+            "brand": {
+                "name": "Die Waffel",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/00035Q11/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/00035Q11/headers/header",
+                "heroImageUrlType": "PROFESSIONAL",
+                "branchName": "Michelsberg"
+            },
+            "cuisineTypes": [
+                "salads_1456",
+                "falafel_1256",
+                "arab_1246"
+            ],
+            "rating": {
+                "votes": 455,
+                "score": 4.6
+            },
+            "location": {
+                "streetAddress": "Michelsberg 18",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0828273",
+                "lng": "8.2375964",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": true,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 45,
+                    "durationRange": {
+                        "min": 30,
+                        "max": 55
+                    },
+                    "deliveryFeeDefault": 389,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 389
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,00035Q11,65205,964911843,0-0:389;32f53989aa0ccef4c658d7fdaa1ad8905cf2e9e4c8a0b5d6683ec20fcb6dcdba"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 6259
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "007Q0N31",
+            "primarySlug": "sausalitos-wiesbaden",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 0,
+            "popularity": 0,
+            "brand": {
+                "name": "Sausalitos",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/chains/de/sausalitos/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/chains/de/sausalitos/headers/header",
+                "heroImageUrlType": "CHAIN",
+                "branchName": "Wiesbaden"
+            },
+            "cuisineTypes": [
+                "burgers_541",
+                "mexican_221",
+                "american_381"
+            ],
+            "rating": {
+                "votes": 9,
+                "score": 4.1
+            },
+            "location": {
+                "streetAddress": "Goldgasse 4",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0837498",
+                "lng": "8.2412408",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": false,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 45,
+                    "durationRange": {
+                        "min": 30,
+                        "max": 55
+                    },
+                    "deliveryFeeDefault": 389,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 389
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,007Q0N31,65205,964912383,0-0:389;93aa5b5aee8f60138297776d654315b58f6f47fffb5544903053a645d428bcfa"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 6084
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "01NP3N31",
+            "primarySlug": "chillers-wiesbaden-2",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 1082,
+            "popularity": 10,
+            "brand": {
+                "name": "Chillers",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/01NP3N31/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/541/541_burger_28",
+                "heroImageUrlType": "STOCK",
+                "branchName": "Wiesbaden"
+            },
+            "cuisineTypes": [
+                "burgers_541",
+                "american_381",
+                "chicken_521",
+                "2600"
+            ],
+            "rating": {
+                "votes": 402,
+                "score": 4.2
+            },
+            "location": {
+                "streetAddress": "Bahnhofsplatz 1",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0702931",
+                "lng": "8.2438908",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": true,
+                "discounts": true
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 45,
+                    "durationRange": {
+                        "min": 35,
+                        "max": 60
+                    },
+                    "deliveryFeeDefault": 199,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 199
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,01NP3N31,65205,964478113,0-0:199;2ad0c5813e0286d1c7b32b1bfb28da086417fcf548e0eb5a1efbb00f5c936059"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 5289
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "01R5QO7N",
+            "primarySlug": "highlight",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 0,
+            "popularity": 1,
+            "brand": {
+                "name": "highlight",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/01R5QO7N/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/01R5QO7N/headers/header",
+                "heroImageUrlType": "PROFESSIONAL",
+                "branchName": ""
+            },
+            "cuisineTypes": [
+                "japanese_551"
+            ],
+            "rating": {
+                "votes": 14,
+                "score": 4.9
+            },
+            "location": {
+                "streetAddress": "Seilergasse 3",
+                "city": "Mainz",
+                "country": "DE",
+                "lat": "49.9999",
+                "lng": "8.274858",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": true,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 40,
+                    "durationRange": {
+                        "min": 30,
+                        "max": 50
+                    },
+                    "deliveryFeeDefault": 449,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 449
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,01R5QO7N,65205,963775433,0-0:449;f2fbfed48de5d973f16541018201183fa7efe7cfac2ba1755e2edc1700ce592f"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 6809
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "05O0O75N",
+            "primarySlug": "ulivo-pizzeria",
+            "indicators": {
+                "isDeliveryByScoober": false,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 725,
+            "popularity": 32,
+            "brand": {
+                "name": "Ulivo Pizzeria",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/05O0O75N/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/271/271_italian_pizza_11",
+                "heroImageUrlType": "STOCK",
+                "branchName": ""
+            },
+            "cuisineTypes": [
+                "italian-pizza_271",
+                "pasta_1614",
+                "schnitzel_1654",
+                "2600"
+            ],
+            "rating": {
+                "votes": 1309,
+                "score": 4.8
+            },
+            "location": {
+                "streetAddress": "Erich-Ollenhauer-Straße 213",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0639858",
+                "lng": "8.2141937",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": true,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": false,
+                "discounts": true
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": true,
+                    "isOpenForPreorder": true,
+                    "openingTime": null,
+                    "duration": 30,
+                    "durationRange": {
+                        "min": 20,
+                        "max": 45
+                    },
+                    "deliveryFeeDefault": 500,
+                    "minOrderValue": 4500,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 500
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": null,
+                        "token": null
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": true,
+                    "isOpenForPreorder": true,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 7211
+                    }
+                }
+            },
+            "paymentMethods": [
+                "cash",
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "05O5755N",
+            "primarySlug": "lokma-restaurant-grill-and-chicken",
+            "indicators": {
+                "isDeliveryByScoober": false,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": true
+            },
+            "priceRange": 912,
+            "popularity": 68,
+            "brand": {
+                "name": "Lokma Restaurant - Grill and Chicken",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/05O5755N/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/541/541_burger_15",
+                "heroImageUrlType": "STOCK",
+                "branchName": ""
+            },
+            "cuisineTypes": [
+                "burgers_541",
+                "doener_821",
+                "chicken_521"
+            ],
+            "rating": {
+                "votes": 1985,
+                "score": 4.7
+            },
+            "location": {
+                "streetAddress": "Moritzstraße 12",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0765456",
+                "lng": "8.2386979",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": true,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": true,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": true,
+                    "isOpenForPreorder": true,
+                    "openingTime": null,
+                    "duration": 30,
+                    "durationRange": {
+                        "min": 20,
+                        "max": 45
+                    },
+                    "deliveryFeeDefault": 250,
+                    "minOrderValue": 1000,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 250
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": null,
+                        "token": null
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": true,
+                    "isOpenForPreorder": true,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 5881
+                    }
+                }
+            },
+            "paymentMethods": [
+                "cash",
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "05P5P311",
+            "primarySlug": "la-pasta-wiesbaden",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 0,
+            "popularity": 0,
+            "brand": {
+                "name": "La Pasta",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/05P5P311/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/21/21_italian_86",
+                "heroImageUrlType": "STOCK",
+                "branchName": "Wiesbaden"
+            },
+            "cuisineTypes": [
+                "italian_21",
+                "100-halal_921"
+            ],
+            "rating": {
+                "votes": 31,
+                "score": 3.7
+            },
+            "location": {
+                "streetAddress": "Bahnhofsplatz 3",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0707111",
+                "lng": "8.2414687",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": true,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 50,
+                    "durationRange": {
+                        "min": 35,
+                        "max": 60
+                    },
+                    "deliveryFeeDefault": 199,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 199
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,05P5P311,65205,964478663,0-0:199;4973f6a1a9a7f19d74bc1b9a606cfb188f8926697f9c1457ad013c235c21e167"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 5467
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "0711175N",
+            "primarySlug": "palmen-grill-2-1",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 0,
+            "popularity": 19,
+            "brand": {
+                "name": "Palmen Grill 2",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/0711175N/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/541/541_burger_20",
+                "heroImageUrlType": "STOCK",
+                "branchName": ""
+            },
+            "cuisineTypes": [
+                "burgers_541",
+                "chicken_231"
+            ],
+            "rating": {
+                "votes": 164,
+                "score": 3.9
+            },
+            "location": {
+                "streetAddress": "Michelsberg 32",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0830065",
+                "lng": "8.2368261",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": true,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 45,
+                    "durationRange": {
+                        "min": 30,
+                        "max": 55
+                    },
+                    "deliveryFeeDefault": 389,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 389
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,0711175N,65205,964912313,0-0:389;758d2627f69cb1d52b74f8ba6f35b277963882c42c1f4251abae2c70dbd05f9b"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 6316
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "07RR0R11",
+            "primarySlug": "addis-abebaye",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 1830,
+            "popularity": 2,
+            "brand": {
+                "name": "Addis Abebaye",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/07RR0R11/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/391/391_vegetarian_17",
+                "heroImageUrlType": "STOCK",
+                "branchName": ""
+            },
+            "cuisineTypes": [
+                "vegetarian_391",
+                "chicken_521",
+                "ethiopian_1914"
+            ],
+            "rating": {
+                "votes": 276,
+                "score": 4.6
+            },
+            "location": {
+                "streetAddress": "Parcusstraße 1",
+                "city": "Mainz",
+                "country": "DE",
+                "lat": "50.0007864",
+                "lng": "8.2607079",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": false,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": true,
+                    "isOpenForPreorder": true,
+                    "openingTime": null,
+                    "duration": 40,
+                    "durationRange": {
+                        "min": 30,
+                        "max": 55
+                    },
+                    "deliveryFeeDefault": 499,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 499
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,07RR0R11,65205,963799253,0-0:499;8b2494e58432d254552df4da01fe14c07cd0c510ea412bfe5e37949296cb73c4"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": true,
+                    "isOpenForPreorder": true,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 7203
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "0N0R7Q5N",
+            "primarySlug": "waffel-house-wiesbaden",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": true
+            },
+            "priceRange": 0,
+            "popularity": 5,
+            "brand": {
+                "name": "Waffel House",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/0N0R7Q5N/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/954/954_desserts_17",
+                "heroImageUrlType": "STOCK",
+                "branchName": "Wiesbaden"
+            },
+            "cuisineTypes": [
+                "desserts_954"
+            ],
+            "rating": {
+                "votes": 94,
+                "score": 4.1
+            },
+            "location": {
+                "streetAddress": "Schwalbacher Straße 26",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0802796",
+                "lng": "8.2359696",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": true,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 45,
+                    "durationRange": {
+                        "min": 30,
+                        "max": 55
+                    },
+                    "deliveryFeeDefault": 289,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 289
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,0N0R7Q5N,65205,964717323,0-0:289;96bafa31ac4be9b2ddbc146c43347674e50e8b6f205fabcbe2c49e14a30e6ac5"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 6231
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "0N17375N",
+            "primarySlug": "cafe-latte-art-dotzheimer-strasse",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 0,
+            "popularity": 4,
+            "brand": {
+                "name": "Café Latte Art",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/0N17375N/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/251/251_cake_9",
+                "heroImageUrlType": "STOCK",
+                "branchName": "Dotzheimer Straße"
+            },
+            "cuisineTypes": [
+                "cake_251",
+                "breakfast_361",
+                "ice-cream_1194"
+            ],
+            "rating": {
+                "votes": 46,
+                "score": 4.5
+            },
+            "location": {
+                "streetAddress": "Dotzheimer Straße 114",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0773312",
+                "lng": "8.2212416",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": true,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 40,
+                    "durationRange": {
+                        "min": 30,
+                        "max": 50
+                    },
+                    "deliveryFeeDefault": 389,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 389
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,0N17375N,65205,964911583,0-0:389;a881d767c0eb0e5c5a638d60ccd81ae5625273de4748d231377991debab79f21"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 7072
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "0N3P1711",
+            "primarySlug": "good-morning-vietnam-neugasse",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 867,
+            "popularity": 26,
+            "brand": {
+                "name": "Good Morning Vietnam",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/0N3P1711/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/1864/1864_asian_30",
+                "heroImageUrlType": "STOCK",
+                "branchName": "Neugasse"
+            },
+            "cuisineTypes": [
+                "asian_1864",
+                "vietnamese_261"
+            ],
+            "rating": {
+                "votes": 784,
+                "score": 4
+            },
+            "location": {
+                "streetAddress": "Neugasse 24",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.0821948",
+                "lng": "8.2396675",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": false,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 40,
+                    "durationRange": {
+                        "min": 30,
+                        "max": 55
+                    },
+                    "deliveryFeeDefault": 289,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 289
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,0N3P1711,65205,964715913,0-0:289;6d1545d2a0b9e57205008966a4eb14abf52a22dbfed24022c2a92c244c31dfe6"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 6095
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        },
+        {
+            "id": "0NR5OO7N",
+            "primarySlug": "brewdog-ab-1200",
+            "indicators": {
+                "isDeliveryByScoober": true,
+                "isNew": false,
+                "isTestRestaurant": false,
+                "isGroceryStore": false,
+                "isSponsored": false
+            },
+            "priceRange": 0,
+            "popularity": 2,
+            "brand": {
+                "name": "BrewDog Wiesbaden",
+                "logoUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/restaurants/de/0NR5OO7N/logo_465x320",
+                "heroImageUrl": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/{parameters}/v1710965730/static-takeaway-com/images/generic/heroes/521/521_chicken_50",
+                "heroImageUrlType": "STOCK",
+                "branchName": ""
+            },
+            "cuisineTypes": [
+                "burgers_541",
+                "salads_1456",
+                "chicken_231"
+            ],
+            "rating": {
+                "votes": 76,
+                "score": 3.7
+            },
+            "location": {
+                "streetAddress": "Marktstraße 20",
+                "city": "Wiesbaden",
+                "country": "DE",
+                "lat": "50.082172",
+                "lng": "8.240815",
+                "timeZone": "Europe/Amsterdam"
+            },
+            "supports": {
+                "delivery": false,
+                "pickup": true,
+                "vouchers": true,
+                "stampCards": false,
+                "discounts": false
+            },
+            "shippingInfo": {
+                "delivery": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "duration": 45,
+                    "durationRange": {
+                        "min": 30,
+                        "max": 55
+                    },
+                    "deliveryFeeDefault": 289,
+                    "minOrderValue": 0,
+                    "lowestDeliveryFee": {
+                        "from": 0,
+                        "fee": 289
+                    },
+                    "dynamicDeliveryFeeInfo": {
+                        "expiryTime": 1710967530,
+                        "token": "1710967530,0NR5OO7N,65205,964715403,0-0:289;03c521dd7e26e0fe932b1cf15442984e43770180065d417cdbb6d0771190316e"
+                    }
+                },
+                "pickup": {
+                    "isOpenForOrder": false,
+                    "isOpenForPreorder": false,
+                    "openingTime": null,
+                    "distance": {
+                        "unit": "m",
+                        "quantity": 6023
+                    }
+                }
+            },
+            "paymentMethods": [
+                "paypal",
+                "creditcard",
+                "sofort",
+                "giropay",
+                "bitpay"
+            ]
+        }
+    ]
+        
+}
